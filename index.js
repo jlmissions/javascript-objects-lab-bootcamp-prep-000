@@ -1,4 +1,4 @@
-var recipes = new Object ({})
+var recipes = {key: value}
 
 var newObj = Object.assign ({}, obj)
 
